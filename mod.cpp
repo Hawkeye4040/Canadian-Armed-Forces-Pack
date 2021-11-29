@@ -1,0 +1,12 @@
+name = "";
+picture = "_logo.paa";
+actionName = "Website";
+action = "http://";
+description = "";
+logo = "_logo.paa";
+logoOver = "_logo.paa";
+tooltip = " Armed Forces Pack";
+tooltipOwned = "Armed Forces Pack Owned";
+author = "Hawkeye4040";
+overviewPicture = "_logo.paa";
+overviewText = " Armed Forces Pack overviewText";
